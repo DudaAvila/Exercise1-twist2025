@@ -1,0 +1,47 @@
+/*elemento*/ 
+img{ 
+    height: 400px;
+    width: 700px; 
+    font-size: 18pt;
+    border: solid rgb(174, 174, 241) 3px;
+    background-color:  rgb(189, 210, 241) ;
+    padding: 10px;
+    margin: 6px ;
+}
+/*universal*/
+*{
+    background-color: rgb(245, 250, 225);
+
+}
+
+/*Css grupo*/ 
+h1{
+    background-color: rgb(189, 210, 241);
+    color: rgb(52, 94, 150) ;  
+    font-size: 20pt ;
+}
+ 
+h2{ 
+    color: rgb(11, 15, 80); 
+    font-size: 15pt;
+}
+
+/*descendente*/ 
+p strong{
+    color: rgb(22, 45, 109);
+}
+
+p{ 
+    font-size: 14pt;
+}
+
+/*ID*/ 
+#cabeçalho{ 
+    color: rgb(7, 11, 63); 
+    font-size: 40pt;
+    text-align: center ;
+    padding: 20px; 
+    border: dotted rgb(76, 96, 151) 5px; 
+    margin: 0 ; 
+}
+
